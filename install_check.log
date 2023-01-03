@@ -1,6 +1,6 @@
 Install checked: 
 
-SYSTEM:	Darwin ximena-air.wireless-1x.unc.edu 21.6.0 Darwin Kernel Version 21.6.0: Sat Jun 18 17:07:28 PDT 2022; root:xnu-8020.140.41~1/RELEASE_ARM64_T8110 arm64
+SYSTEM:	Darwin Ximena-MacBook-Air.local 21.6.0 Darwin Kernel Version 21.6.0: Sat Jun 18 17:07:28 PDT 2022; root:xnu-8020.140.41~1/RELEASE_ARM64_T8110 arm64
 SHELL:	[/bin/bash]
 GIT:	[/usr/local/bin/git] git version 2.36.1
 VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Jun 17 2022 21:26:11)
